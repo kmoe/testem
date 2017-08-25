@@ -10,7 +10,7 @@ QUnit.module('hello');
 
 
 QUnit.test('says hello world', function(assert){
-    assert.equal(hello(), 'hello moon', 'should equal hello world');
+    assert.equal(hello(), 'hello world', 'should equal hello world');
 });
 
 QUnit.test('says hello to person', function(assert){
