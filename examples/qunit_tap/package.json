@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "test": "node ../../testem.js ci"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/testem/testem.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "qunit-tap": "^1.5.1",
+    "qunitjs": "^2.4.0"
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "framework": "qunit",
+      "launchers": {
+    "Node": {
+      "command": "node tests.js",
+      "protocol": "tap"
+    }
+  },
+  "launch_in_dev": ["Node"],
+  "launch_in_ci": ["Node"]
+}
