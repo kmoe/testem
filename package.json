@@ -117,7 +117,7 @@
     "sort-package-json": "^1.15.0",
     "symlink-or-copy": "^1.2.0",
     "temp": "0.8.3",
-    "testem": "^2.9.2",
+    "testem": "kmoe/testem#8fc90a791ae2b27cb2257ffea36551977a2ca50e",
     "tiny-lr": "^1.1.1",
     "tree-sync": "^1.2.2",
     "uuid": "^3.3.2",
